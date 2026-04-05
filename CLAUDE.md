@@ -13,7 +13,7 @@
 - Lecture 2+: in progress
 
 ## Known Weaknesses (update after every session)
-- Missing main() and if __name__ guard in most files
+- Missing main() and if __name__ guard in Lecture 0 and 1 files (won't fix retroactively — applying from Lecture 2 onward)
 - Single-letter variable names (x, y, z)
 - No edge case handling
 - Used | instead of or in extensions.py
@@ -36,4 +36,4 @@
 
 ## Session Log (update after every session)
 - Last session: April 4 2026 — Reviewed all Lecture 0 and 1 files
-- Next focus: Fix main() and variable names across all files, then start Lecture 2
+- Next focus: Start Lecture 2 — apply main() + if __name__ guard from here on, fix variable naming
